@@ -3,19 +3,18 @@
     "scopes": {
         "shop-root": {
             "hashes": {
-                "/admin/bx_products_video.php": "693850aa95217f9a01f534086852044e",
+                "/admin/bx_products_video.php": "606d84bdd5a9dfa8c45e37baf37d03f6",
                 "/admin/images/icons/heading/bx_products_video.png": "74f2d6e4a1e0e7c455352e4496f8a778",
                 "/admin/includes/extra/css/bx_products_video.php": "8d9b2609a8afb73744c64d6a45267436",
                 "/admin/includes/extra/modules/add_db_fields/bx_products_video.php": "031f632902e67b0f078dc5d052935ad2",
                 "/admin/includes/extra/modules/new_product/bx_products_video.php": "d9a3322a0d40244a8b927a876e3fe0b1",
-                "/admin/includes/modules/system/bx_products_video.php": "2414b7f62193f52e8c69aa7081bfd020",
-                "/admin/includes/modules/system/bx_products_video.php.bak": "32c1b637b58213babf72332c64d8b345",
+                "/admin/includes/modules/system/bx_products_video.php": "418594360e6e5548e31b869895aafea2",
                 "/includes/extra/define_add_select/bx_products_video.php": "f9d9fed056a7a709dc971deb93082506",
                 "/includes/extra/modules/product_info_end/bx_products_video.php": "ddc98e72b3a4bdba0d7e30e76ae7baed",
                 "/lang/english/extra/admin/bx_products_video.php": "29ffc43dc1c92b0cd4bfe115cf60f1cc",
                 "/lang/english/modules/system/bx_products_video.php": "06545ee87aac5a8532d6aefb8a78d51a",
                 "/lang/german/extra/admin/bx_products_video.php": "f32191c5daa6fc14cc525dff80e03d6f",
-                "/lang/german/modules/system/bx_products_video.php": "8efe6c9dd7db31f87dd76679fb0462da",
+                "/lang/german/modules/system/bx_products_video.php": "a736c74f3f6d340d1e6e96ebcc45c147",
                 "/templates/bootstrap4/img/playVideo.png": "d8c92bc1f7c416841b193af977768ec5",
                 "/templates/bootstrap4/img/playVideoHover.png": "caa4b9fceca30e0b3467f28dfdadadee",
                 "/templates/bootstrap4/javascript/extra/bx_products_video.js.php": "fe41fe104a560743de3dc089fcec5246",
