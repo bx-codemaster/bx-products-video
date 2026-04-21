@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "scopes": {
+        "shop-root": {
+            "hashes": {
+                "/admin/bx_products_video.php": "693850aa95217f9a01f534086852044e",
+                "/admin/images/icons/heading/bx_products_video.png": "74f2d6e4a1e0e7c455352e4496f8a778",
+                "/admin/includes/extra/css/bx_products_video.php": "8d9b2609a8afb73744c64d6a45267436",
+                "/admin/includes/extra/modules/add_db_fields/bx_products_video.php": "031f632902e67b0f078dc5d052935ad2",
+                "/admin/includes/extra/modules/new_product/bx_products_video.php": "d9a3322a0d40244a8b927a876e3fe0b1",
+                "/admin/includes/modules/system/bx_products_video.php": "2414b7f62193f52e8c69aa7081bfd020",
+                "/admin/includes/modules/system/bx_products_video.php.bak": "32c1b637b58213babf72332c64d8b345",
+                "/includes/extra/define_add_select/bx_products_video.php": "f9d9fed056a7a709dc971deb93082506",
+                "/includes/extra/modules/product_info_end/bx_products_video.php": "ddc98e72b3a4bdba0d7e30e76ae7baed",
+                "/lang/english/extra/admin/bx_products_video.php": "29ffc43dc1c92b0cd4bfe115cf60f1cc",
+                "/lang/english/modules/system/bx_products_video.php": "06545ee87aac5a8532d6aefb8a78d51a",
+                "/lang/german/extra/admin/bx_products_video.php": "f32191c5daa6fc14cc525dff80e03d6f",
+                "/lang/german/modules/system/bx_products_video.php": "8efe6c9dd7db31f87dd76679fb0462da",
+                "/templates/bootstrap4/img/playVideo.png": "d8c92bc1f7c416841b193af977768ec5",
+                "/templates/bootstrap4/img/playVideoHover.png": "caa4b9fceca30e0b3467f28dfdadadee",
+                "/templates/bootstrap4/javascript/extra/bx_products_video.js.php": "fe41fe104a560743de3dc089fcec5246",
+                "/templates/bootstrap4/module/product_info/product_info_tabs_v1.html": "c4a24b39a58e0ab19d18ab7a1bbb1577",
+                "/templates/tpl_modified_nova/css/general_bottom.css.php": "6a7fe2e633a05c8aa5aea4df154e6c5f",
+                "/templates/tpl_modified_nova/css/splide-extension-video.min.css": "1ebe598296cd4d2441b67666c98ec655",
+                "/templates/tpl_modified_nova/css/splide.css": "cd6256b7f6de8e1cd0583fe689404b68",
+                "/templates/tpl_modified_nova/img/playVideo.png": "d8c92bc1f7c416841b193af977768ec5",
+                "/templates/tpl_modified_nova/img/playVideoHover.png": "caa4b9fceca30e0b3467f28dfdadadee",
+                "/templates/tpl_modified_nova/javascript/extra/splide.js.php": "e3893fa27ab40dda34946b5f850ba877",
+                "/templates/tpl_modified_nova/javascript/extra/splide.js.php.bak": "a3ae8ff8c71237d42afdc59549b24cba",
+                "/templates/tpl_modified_nova/javascript/splide-extension-video.js.map": "f0a14cfa51eb8f3bff0d9688c6617977",
+                "/templates/tpl_modified_nova/javascript/splide-extension-video.min.js": "13f4f736dc7c73c05be373c2b7b0dbca",
+                "/templates/tpl_modified_nova/module/product_info/product_info_v1_tabs.html": "3d344b94bd3998e65bac69be9e091383",
+                "/templates/tpl_modified_responsive/img/playVideo.png": "d8c92bc1f7c416841b193af977768ec5",
+                "/templates/tpl_modified_responsive/img/playVideoHover.png": "caa4b9fceca30e0b3467f28dfdadadee",
+                "/templates/tpl_modified_responsive/javascript/extra/colorbox.js.php": "83e73a13b25d3fb3d64ccd7d1d2c0d33",
+                "/templates/tpl_modified_responsive/module/product_info/product_info_tabs_v1.html": "84e81f3f0423b29e86ad2ae7217bb2be",
+                "/templates/tpl_neo_boxable/css/general_bottom.css.php": "f679076c0a42d76b41aeada6e477b790",
+                "/templates/tpl_neo_boxable/css/splide-extension-video.min.css": "1ebe598296cd4d2441b67666c98ec655",
+                "/templates/tpl_neo_boxable/css/splide.css": "f4c966b609f5de648d4d36cf774f3865",
+                "/templates/tpl_neo_boxable/img/playVideo.png": "d8c92bc1f7c416841b193af977768ec5",
+                "/templates/tpl_neo_boxable/img/playVideoHover.png": "caa4b9fceca30e0b3467f28dfdadadee",
+                "/templates/tpl_neo_boxable/javascript/extra/splide-extension-video.js.php": "f87107eec84439625d1a64354a0abb62",
+                "/templates/tpl_neo_boxable/javascript/extra/splide.js.php": "c830e0269ceb66e945d64d2546da9acb",
+                "/templates/tpl_neo_boxable/module/product_info/product_info_v1_tabs.html": "6763fe7fa592e3d132b0fad1228050a0"
+            }
+        },
+        "shop-vendor-mmlc": {
+            "hashes": []
+        }
+    }
+}
